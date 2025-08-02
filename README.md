@@ -13,8 +13,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning **JavaScript**
-- 💬 Ask me about **React, HTML, CSS**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Java-Script, HTML, CSS**
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://shahid-portfolioo.netlify.app/)
 - 📫 Reach me at: **shahidreza660@gmail.com**
 
