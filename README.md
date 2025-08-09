@@ -56,6 +56,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahidreza5542&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
 ## 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidreza5542&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
@@ -63,12 +70,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Dynamic Dev Quote
 <p align="center">
-  <img src="https://github.com/shahidreza5542/shahidreza5542/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
-
-## 🚀 Fun Fact
-💡 *"The best way to predict the future is to create it."*
