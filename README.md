@@ -43,13 +43,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shahid's GitHub stats" />
-</p>
+
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidreza5542&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact" alt="shahidreza5542" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&locale=en" alt="shahidreza5542" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&" alt="shahidreza5542" />
+</p>
+
+
 
 ---
 
