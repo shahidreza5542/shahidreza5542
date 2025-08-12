@@ -46,12 +46,13 @@
 
 
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact" alt="shahidreza5542" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&locale=en" alt="shahidreza5542" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&" alt="shahidreza5542" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&locale=en" alt="shahidreza5542" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact" alt="shahidreza5542" />
 </p>
 
 
