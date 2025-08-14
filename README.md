@@ -17,7 +17,7 @@
 <pre style="font-family: 'Courier New', monospace; font-size:15px;">
 HTML       [██████████████████░░░░] 90%
 CSS        [████████████████░░░░░] 85%
-JavaScript [██████████████░░░░░░░] 80%
+JavaScript [██████████████░░░░░░] 80%
 Linux      [█████████████░░░░░░░] 70%
 </pre>
 
