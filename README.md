@@ -59,3 +59,9 @@ If you like my work, you can support me by buying me a coffee:
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px !important;width: 180px !important;" >
   </a>
 </p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/shahidreza" target="_blank">
+    <img src="https://i.ibb.co/w1KDvKD/IMG-20250818-031040.jpg" alt="donation" style="height: 230px !important;width: 200px !important;" >
+  </a>
+</p>
