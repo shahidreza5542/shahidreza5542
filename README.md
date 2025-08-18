@@ -1,5 +1,5 @@
-<h2 align="center" style="font-size: 22px;">Hi 👋, I'm Shahid Reza</h2>
-<h4 align="center" style="font-size: 16px;">🚀 Passionate Frontend Developer from India</h4>
+<h2 align="center" style="font-size: 26px;">Hi 👋, I'm Shahid Reza</h2>
+<h4 align="center" style="font-size: 18px;">🚀 Passionate Frontend Developer from India</h4>
 
 ---
 
@@ -12,28 +12,38 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-<pre style="font-family: 'Courier New', monospace; font-size:15px;">
-HTML       [██████████████████░░░░] 90%
-CSS        [████████████████░░░░░░] 85%
-JavaScript [██████████████░░░░░░░░] 80%
-Linux      [█████████████░░░░░░░░░] 70%
-</pre>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Mastered-HTML/CSS/JS-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Active%20Streak-purple?style=for-the-badge"/>
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&theme=react" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=react&locale=en" alt="GitHub Stats" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
 ---
 
@@ -44,14 +54,7 @@ Linux      [█████████████░░░░░░░░░] 
 
 ---
 
-## 🏆 Achievements
-- ✅ Mastered **HTML, CSS, JavaScript & Linux**  
-- 🏗 Built **10+ Web Projects**  
-- 🎯 Contributing to **Open Source**
-
----
-
-## ☕ Support Me
+## ☕ Support Me  
 If you like my work, you can support me by buying me a coffee:
 
 <p align="center">
