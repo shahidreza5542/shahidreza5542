@@ -18,7 +18,6 @@
 ### 🏆 Highlights  
 <p align="center">
   <img src="https://img.shields.io/badge/20%2B_Projects_Completed-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mastered-HTML%2C_CSS%2C_JS%2C_Linux-f97316?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Contributor-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-Active_Streak-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </p>
