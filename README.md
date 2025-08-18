@@ -1,5 +1,5 @@
 <!-- TOP BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Shahid%20Reza&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20•%20React%20Learner&descAlign=50&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Shahid%20Reza&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%&descAlign=50&descAlignY=62"/>
 
 <!-- TYPING LINE -->
 <p align="center">
