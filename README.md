@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 - 🌱 Exploring **React** and **Modern UI/UX**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Linux**  
 - 👨‍💻 Portfolio: [Visit Here](https://shahid-portfolioo.netlify.app/)  
@@ -15,11 +15,7 @@
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,react,git,github,vscode" />
 </p>
 
 ---
@@ -27,10 +23,10 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mastered-HTML/CSS/JS-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Active%20Streak-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/10%2B%20Projects%20Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-2962FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consistent%20GitHub%20Streak-FF6D00?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mastered%20HTML/CSS/JS/Linux-AA00FF?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 ---
@@ -38,16 +34,16 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&theme=react" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=react&locale=en" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Projects  
 - [**Personal Portfolio**](https://shahid-portfolioo.netlify.app/) – Complete work showcase  
 - [**Minecraft Server Website**](https://legend-network.netlify.app/) – Stylish SMP server site  
 - [**Minecraft Hosting Website**](https://unrivaled-kitten-654b6c.netlify.app/) – Hosting plans & order system  
