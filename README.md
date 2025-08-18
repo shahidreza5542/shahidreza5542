@@ -3,7 +3,7 @@
 
 <!-- TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=750&center=true&vCenter=true&lines=Building+modern%2C+fast+and+clean+web+UIs;JavaScript+%7C+React+(learning)+%7C+Linux+user;Open+Source%20Contributor%20%7C%20Always%20shipping%20new%20projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=750&center=true&vCenter=true&lines=Building+modern%2C+fast+and+clean+web+UIs;JavaScript+%7C+React+%7C+Linux+user;Open+Source%20Contributor%20%7C%20Always%20shipping%20new%20projects" />
 </p>
 
 ---
