@@ -59,5 +59,15 @@
   </a>
 </p>
 
+---
+
+### 🎓 Certificates
+
+<p align="center">
+  <a href="https://moonshot.scaler.com/s/sl/KYJDfTfQxr?_gl=1*1u8u732*_gcl_aw*R0NMLjE3NTUyOTY1NjQuQ2p3S0NBand0ZnZFQmhBbUVpd0EtRHNLanRDUXdZUjJLcGFsQXp0NU1VNkVUeEdTa19WNS1wOGtlQlc0c0ZFZDNuYl9rR1RSWWtrRzdob0N6VUlRQXZEX0J3RQ..*_gcl_au*MTU3ODg1NTguMTc1NTI5NjU1NS4xNzUyOTMwNzA2LjE3NTUyOTY1NTkuMTc1NTI5NjU1OA..*FPAU*MTU3ODg1NTguMTc1NTI5NjU1NQ..*_ga*NDg5MjA4MTk5LjE3NTUyOTY1NTc.*_ga_53S71ZZG1X*czE3NTU2OTIwNjkkbzIkZzEkdDE3NTU2OTU4NDgkajUkbDAkaDExMTQyNDU5Nzc" target="_blank">
+    <img src="https://img.shields.io/badge/Scaler-Course_Certificate-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
+  </a>
+</p>
+
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
