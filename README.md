@@ -48,7 +48,7 @@
 ### 🎓 Certificates
 <p align="center">
   <a href="https://moonshot.scaler.com/s/sl/KYJDfTfQxr?_gl=1*1u8u732*_gcl_aw*R0NMLjE3NTUyOTY1NjQuQ2p3S0NBand0ZnZFQmhBbUVpd0EtRHNLanRDUXdZUjJLcGFsQXp0NU1VNkVUeEdTa19WNS1wOGtlQlc0c0ZFZDNuYl9rR1RSWWtrRzdob0N6VUlRQXZEX0J3RQ.." target="_blank">
-    <img src="https://img.shields.io/badge/Scaler-Course_Certificate-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scaler-Javascript_Certificate-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
   </a>
 </p>
 
