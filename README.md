@@ -33,14 +33,14 @@
 
 ### 📈 GitHub Analytics  
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidreza5542&theme=tokyonight&hide_border=true" />
+  
+<p align="center">
+  <!-- Working Streak Stats -->
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=shahidreza5542&theme=tokyonight&hide_border=true" />
+  
+  <!-- Other Stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidreza5542&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidreza5542&theme=tokyo-night&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidreza5542&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
