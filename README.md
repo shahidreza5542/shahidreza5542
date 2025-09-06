@@ -57,9 +57,10 @@
     <img src="https://img.shields.io/badge/Scaler-Javascript_Certificate-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
   </a>
 </p>
+
 ---
 
-## 📡 Connect with Me  
+### 📡 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-reza-4512b7344/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
