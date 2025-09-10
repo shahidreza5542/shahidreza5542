@@ -54,7 +54,13 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/verify/3F1KETRFXV4X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
-    <img src="https://img.shields.io/badge/coursera-HTML CSS JS-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
+    <img src="https://img.shields.io/badge/coursera-HTML CSS JAVASCRIPT-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://coursera.org/share/b5ae564fbb36d39e4e45fa1a7fb82acb" target="_blank">
+    <img src="https://img.shields.io/badge/coursera-META FRONT-END DEVELOPER-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
   </a>
 </p>
 
