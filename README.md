@@ -24,13 +24,6 @@
 
 ---
 
-### 🚀 Featured Work  
-- 🔗 **Portfolio** —https://shahidreza.vercel.app/  
-- 🔗 ** Blog Website** — https://mega-blog-navy-one.vercel.app/  
-- 🔗 **Minecraft Hosting Website** — https://unrivaled-kitten-654b6c.netlify.app  
-
----
-
 ### 📈 GitHub Analytics  
 <p align="center">
   
