@@ -1,19 +1,19 @@
-<!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Shahid%20Reza&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20|%20Open%20Source&descAlign=50&descAlignY=60"/>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Shahid Reza</h1>
 
-<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=800&center=true&vCenter=true&lines=Building+fast,+clean+and+scalable+web+apps;Frontend+Developer+%7C+React+%7C+Next.js;Open+Source+Contributor;Always+shipping+projects+%F0%9F%9A%80" />
+Frontend Developer | React | Open Source
 </p>
 
 ---
 
 ## 👋 About Me
-- 💻 Frontend Developer (React & Next.js)
-- ⚡ Focused on fast & clean UI development
-- 🌱 Learning backend + system design
-- 🚀 Building SaaS & side projects
-- 🎯 Goal: Build scalable real-world products
+
+- 💻 Frontend Developer focused on React & UI systems  
+- ⚡ I build fast, minimal and clean web apps  
+- 🌱 Currently learning Backend & System Design  
+- 🚀 Love building SaaS + side projects  
+- 🎯 Goal: Build scalable real-world products  
 
 ---
 
@@ -21,7 +21,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </p>
 
@@ -30,42 +36,35 @@
 ## 🏆 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/20%2B_Projects_Built-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fast_Learner-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source_Contributor-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Code_Enthusiast-F97316?style=for-the-badge" />
+- 🚀 20+ Projects Built  
+- ⚡ Fast Learner  
+- 🔥 Open Source Contributor  
+- 🎯 Clean Code Enthusiast  
 </p>
 
 ---
 
 ## 🚀 Current Focus
-- ⚡ SaaS & AI tool development  
-- 🔧 Backend (Node.js + MongoDB)  
-- 📦 Production-ready apps  
-- 🌐 Deployment & scaling systems  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
+- SaaS development  
+- Backend (Node.js + MongoDB)  
+- Deployment & scaling  
+- Real-world production apps  
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
 </p>
 
 ---
 
-## ✨ Motto
 <p align="center">
-  ⭐ Build. Break. Learn. Repeat.
+⭐ Build. Break. Learn. Repeat.
 </p>
