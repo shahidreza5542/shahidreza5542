@@ -1,78 +1,71 @@
-<!-- TOP BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Shahid%20Reza&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%&descAlign=50&descAlignY=62"/>
+<!-- ===================== HERO BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Shahid%20Reza&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20|%20Open%20Source&descAlign=50&descAlignY=60"/>
 
-<!-- TYPING LINE -->
+<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=750&center=true&vCenter=true&lines=Building+modern%2C+fast+and+clean+web+UIs;JavaScript+%7C+React+%7C+Linux+user;Open+Source%20Contributor%20%7C%20Always%20shipping%20new+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=800&center=true&vCenter=true&lines=Building+fast,+clean+and+scalable+web+apps;Frontend+Developer+%7C+React+%7C+Next.js;Open+Source+Contributor;Always+shipping+projects+%F0%9F%9A%80" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack  
+## 👋 About Me
+- 💻 Frontend Developer (React & Next.js)
+- ⚡ Focused on fast & clean UI development
+- 🌱 Learning backend + system design
+- 🚀 Building SaaS & side projects
+- 🎯 Goal: Build scalable real-world products
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,linux,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,linux,vscode" />
+
 </p>
 
 ---
 
-### 🏆 Highlights  
+## 🏆 Highlights
+
 <p align="center">
-  <img src="https://img.shields.io/badge/20%2B_Projects_Completed-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Active_Streak-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/20%2B_Projects_Built-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fast_Learner-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source_Contributor-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Code_Enthusiast-F97316?style=for-the-badge" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics  
+## 🚀 Current Focus
+- ⚡ SaaS & AI tool development  
+- 🔧 Backend (Node.js + MongoDB)  
+- 📦 Production-ready apps  
+- 🌐 Deployment & scaling systems  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  
-<p align="center">
-  <!-- Working Streak Stats -->
-  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=shahidreza5542&theme=tokyonight&hide_border=true" />
-  
-  <!-- Other Stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahidreza5542&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidreza5542&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-### 🎓 Certificates
-<p align="center">
-  <a href="https://moonshot.scaler.com/s/sl/KYJDfTfQxr?_gl=1*1u8u732*_gcl_aw*R0NMLjE3NTUyOTY1NjQuQ2p3S0NBand0ZnZFQmhBbUVpd0EtRHNLanRDUXdZUjJLcGFsQXp0NU1VNkVUeEdTa19WNS1wOGtlQlc0c0ZFZDNuYl9rR1RSWWtrRzdob0N6VUlRQXZEX0J3RQ.." target="_blank">
-    <img src="https://img.shields.io/badge/Scaler-Javascript_Certificate-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
-  </a>
-</p>
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/3F1KETRFXV4X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
-    <img src="https://img.shields.io/badge/coursera-HTML CSS JAVASCRIPT-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/9VSN4IICIYQC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
-    <img src="https://img.shields.io/badge/coursera-FRONTEND_DEVELOPER-4CAF50?style=for-the-badge&logo=scaler&logoColor=white"/>
-  </a>
-</p>
-
 
 ---
 
-### 📡 Connect with Me  
+## ✨ Motto
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahid-reza-4512b7344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:shahidreza660@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  ⭐ Build. Break. Learn. Repeat.
 </p>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
